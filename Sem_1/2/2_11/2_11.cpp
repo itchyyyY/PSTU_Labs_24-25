@@ -9,7 +9,7 @@ int main()
 	bool firstPlus = false;
 	bool firstMinus = false;
 
-	cout << "¬ведите количество чисел в последовательности: ";
+	cout << "¬ведите длину последовательности: ";
 	cin >> n;
 
 	for (int i = 1; i <= n ; i++)
