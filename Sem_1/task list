@@ -1,19 +1,19 @@
 ✔️ - done 
 ❌ - not done
 
-linear equations_3
-├── linear equations_3.cpp ✔️
-├── linear equations_3.png ❌
+eq_Iteration
+├── eq_Iteration.cpp ✔️
+├── eq_Iteration.png ❌
 └── graphs ❌
 
-linear equations_2
-├── linear equations_2.cpp ✔️
-├── linear equations_2.png ❌
+eq_Newton
+├── eq_Newton.cpp ✔️
+├── eq_Newton.png ❌
 └── graphs ❌
 
-linear equations_1
-├── linear equations_1.cpp ✔️
-├── linear equations_1.png ❌
+eq_Half
+├── eq_Half.cpp ✔️
+├── eq_Half.png ❌
 └── graphs ❌
 
 2_23
