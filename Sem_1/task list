@@ -1,20 +1,24 @@
 ✔️ - done 
 ❌ - not done
 
+recursion
+├── recursion.cpp ✔️
+└── recursion.png ❌
+
 eq_Iteration
 ├── eq_Iteration.cpp ✔️
-├── eq_Iteration.png ❌
-└── graphs ❌
+├── eq_Iteration.png ✔️
+└── graph ✔️
 
 eq_Newton
 ├── eq_Newton.cpp ✔️
-├── eq_Newton.png ❌
-└── graphs ❌
+├── eq_Newton.png ✔️
+└── graph ✔️
 
 eq_Half
 ├── eq_Half.cpp ✔️
-├── eq_Half.png ❌
-└── graphs ❌
+├── eq_Half.png м
+└── graph ✔️
 
 2_23
 ├── 2_23.cpp ✔️
