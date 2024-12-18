@@ -14,12 +14,10 @@ int main()
 {
 	setlocale(LC_ALL, "ru");
 
-	// f(b) * f''(b) > 0 => x0 = b;
-
 	double eps = 1e-5;
 	double lambda = -0.05;
 	double x, xPrev;
-	x = 2;
+	x = 4;
 	xPrev = 0;
 
 	while (abs(x - xPrev) > eps)

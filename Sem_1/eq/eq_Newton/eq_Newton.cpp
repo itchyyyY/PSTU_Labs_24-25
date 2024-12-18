@@ -16,7 +16,7 @@ int main()
 
 	double eps = 1e-5;
 	double x, xPrev;
-	x = 2;
+	x = 4;
 	xPrev = 0;
 
 	while (abs(x - xPrev) > eps)
