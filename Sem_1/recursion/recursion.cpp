@@ -1,6 +1,7 @@
 // ¬ычислить величину e с регулируемой точностью.
 
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int fact(int n, int acc = 1)
