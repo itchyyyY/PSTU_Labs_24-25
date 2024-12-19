@@ -3,7 +3,7 @@
 
 recursion
 ├── recursion.cpp ✔️
-└── recursion.png ❌
+└── recursion.png ✔️
 
 eq_Iteration
 ├── eq_Iteration.cpp ✔️
