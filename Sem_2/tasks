@@ -3,5 +3,30 @@
 
 Lab_4
 ├── Lab_4.cpp ✔️
-├── Lab_4.png ✔️
-└── Отчет.doc ✔️
+└── Lab_4.png ✔️
+
+Lab_5
+├── Lab_5.cpp ✔️
+└── Lab_5.png ❌
+
+sorting
+├── bubble_sort
+    ├── bubble_sort.cpp ✔️
+    └── bubble_sort.png ❌
+├── selection_sort
+    ├── selection_sort.cpp ✔️
+    └── selection_sort.png ❌
+└── insertion_sort
+    ├── insertion_sort.cpp ❌
+    └── insertion_sort.png ❌
+
+3
+├── 3.1.cpp ✔️
+├── 3.2.cpp ✔️
+├── 3.3.cpp ✔️
+├── 3.4.cpp ✔️
+├── 3.5.cpp ✔️
+├── 3.6.cpp ✔️
+├── 3.7.cpp ✔️
+├── 3.8.cpp ✔️
+└── 3.9.cpp ✔️
