@@ -17,7 +17,7 @@ sorting
     ├── selection_sort.cpp ✔️
     └── selection_sort.png ❌
 └── insertion_sort
-    ├── insertion_sort.cpp ❌
+    ├── insertion_sort.cpp ✔️
     └── insertion_sort.png ❌
 
 3
