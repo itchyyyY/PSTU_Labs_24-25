@@ -1,9 +1,13 @@
 ✔️ - done 
 ❌ - not done
 
-Lab_4
-├── Lab_4.cpp ✔️
-└── Lab_4.png ✔️
+recursion
+├── 8 queens
+    ├── 8 queens.cpp ✔️
+    └── 8 queens.png ❌
+└── hanoi
+    ├── hanoi.cpp ✔️
+    └── hanoi.png ❌
 
 Lab_5
 ├── Lab_5.cpp ✔️
@@ -19,6 +23,10 @@ sorting
 └── insertion_sort
     ├── insertion_sort.cpp ✔️
     └── insertion_sort.png ❌
+
+Lab_4
+├── Lab_4.cpp ✔️
+└── Lab_4.png ✔️
 
 3
 ├── 3.1.cpp ✔️
