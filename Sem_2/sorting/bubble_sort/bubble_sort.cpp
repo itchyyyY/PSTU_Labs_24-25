@@ -27,7 +27,6 @@ int main()
 
 	for (int i = 0; i < len-1; ++i)
 	{
-		bool flag = true;
 		for (int j = 0; j < (len - 1 - i); ++j) 
 		{
 			if (arr[j] > arr[j + 1])
@@ -35,11 +34,8 @@ int main()
 				tmp = arr[j];
 				arr[j] = arr[j + 1];
 				arr[j + 1] = tmp;
-
-				flag = false;
 			}
 		}
-		if (flag) { break; }
 	}
 
 	for (int i = 0; i < len; ++i)
