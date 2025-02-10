@@ -17,7 +17,7 @@ void show_Board()
     }
 }
 
-bool try_Place(int a, int b) 
+bool check_Place(int a, int b) 
 {
     for (int i = 0; i < a; ++i) 
     {
@@ -57,7 +57,7 @@ void try_Queen(int a)
 
     for (int i = 0; i < 8; ++i) 
     {
-        if (try_Place(a, i)) 
+        if (check_Place(a, i)) 
         {
             board[a][i] = 1; 
             try_Queen(a + 1);
