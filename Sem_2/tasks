@@ -16,13 +16,13 @@ Lab_5
 sorting
 ├── bubble_sort
     ├── bubble_sort.cpp ✔️
-    └── bubble_sort.png ❌
+    └── bubble_sort.png ✔️
 ├── selection_sort
     ├── selection_sort.cpp ✔️
-    └── selection_sort.png ❌
+    └── selection_sort.png ✔️
 └── insertion_sort
     ├── insertion_sort.cpp ✔️
-    └── insertion_sort.png ❌
+    └── insertion_sort.png ✔️
 
 Lab_4
 ├── Lab_4.cpp ✔️
