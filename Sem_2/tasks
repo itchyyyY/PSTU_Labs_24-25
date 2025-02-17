@@ -7,7 +7,7 @@ recursion
     └── 8 queens.png ❌
 └── hanoi
     ├── hanoi.cpp ✔️
-    └── hanoi.png ❌
+    └── hanoi.png ✔️
 
 Lab_5
 ├── Lab_5.cpp ✔️
