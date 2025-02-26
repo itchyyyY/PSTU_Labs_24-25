@@ -1,5 +1,3 @@
-//14
-
 #include <random>
 #include <iostream>
 
