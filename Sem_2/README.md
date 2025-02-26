@@ -1,1 +1,7 @@
-
+- recursion
+  - 8_queens
+    - 8_queens.cpp ✔️
+    - 8_queens.png ❌
+  - hanoi
+    - hanoi.cpp ✔️
+    - hanoi.png ✔️
