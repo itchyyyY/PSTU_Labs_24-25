@@ -1,26 +1,26 @@
 - Lab_10
-  - Lab_10.cpp 
-  - Lab_10.png 
+  - Lab_10.cpp ✔️
+  - Lab_10.png ❌
 
 - Lab_7_2
-  - Lab_7_2.cpp 
-  - Lab_7_2.png 
+  - Lab_7_2.cpp ✔️
+  - Lab_7_2.png ❌
 
 - Lab_7_1
-  - Lab_7_1.cpp 
-  - Lab_7_1.png 
+  - Lab_7_1.cpp ✔️
+  - Lab_7_1.png ❌
 
 - Lab_6
-  - Lab_6.cpp 
-  - Lab_6.png 
+  - Lab_6.cpp ✔️
+  - Lab_6.png ❌
 
 - Lab_5
-  - Lab_5.cpp 
-  - Lab_5.png 
+  - Lab_5.cpp ✔️
+  - Lab_5.png ❌
 
 - Lab_4
-  - Lab_4.cpp 
-  - Lab_4.png 
+  - Lab_4.cpp ✔️
+  - Lab_4.png ❌
 
 - sorting
   - bubble_sort
