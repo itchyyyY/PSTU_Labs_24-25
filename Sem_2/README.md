@@ -1,6 +1,22 @@
+- doubly_linked_list
+  - doubly_linked_list.cpp ❌
+  - doubly_linked_list.png ❌
+
+- singly_linked_list
+  - singly_linked_list.cpp ✔️
+  - singly_linked_list.png ❌
+
 - Lab_10
   - Lab_10.cpp ✔️
   - Lab_10.png ❌
+ 
+- Lab_9
+  - Lab_9.cpp ❌
+  - Lab_9.png ❌
+
+- Lab_8
+  - Lab_8.cpp ❌
+  - Lab_8.png ❌
 
 - Lab_7_2
   - Lab_7_2.cpp ✔️
