@@ -55,7 +55,7 @@
     - 8_queens.png ❌
   - hanoi
     - hanoi.cpp ✔️
-    - hanoi.png ✔️
+    - hanoi.png ❌
 
 - 3
   - 3.1.cpp ✔️
