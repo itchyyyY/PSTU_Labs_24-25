@@ -239,6 +239,14 @@ struct singly_linked_list
 			}
 		}
 	}
+
+	~singly_linked_list()
+	{
+		while (!is_empty())
+		{
+			remove_front();
+		}
+	}
 };
 
 int main()
