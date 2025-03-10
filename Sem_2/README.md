@@ -14,10 +14,6 @@
   - Lab_9.cpp ❌
   - Lab_9.png ❌
 
-- Lab_8
-  - Lab_8.cpp ❌
-  - Lab_8.png ❌
-
 - Lab_7_2
   - Lab_7_2.cpp ✔️
   - Lab_7_2.png ❌
