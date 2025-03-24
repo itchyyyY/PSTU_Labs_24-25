@@ -13,7 +13,7 @@
 | Подсчетом |✅  | 🕐 | sorting/counting_sort |
 | Блочная  | ✅ | 🕐 | sorting/bucket_sort |
 | Слиянием | ✅ | 🕐 | sorting/merge_sort |
-| Быстрая по Ломуто | ✅ | 🕐 | sorting/Lomuto |
+| Быстрая по Ломуто | ✅ | ✅ | sorting/Lomuto |
 | idef0 | ❌ | ✅ | idef0 |
 | 8 ферзей | ✅ | ✅ | recursion |
 | Ханой | ✅ | ✅ | recursion |
