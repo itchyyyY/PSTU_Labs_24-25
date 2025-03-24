@@ -3,23 +3,23 @@
 | Хэш-таблицы  |  |  |  |
 | Бойер-Мур |  |  |  |
 | Кнут-Моррис-Пратт |  |  |  |
-| Бинарный | ✅ | 🕐 | search |
-| Интерполяционный | ✅ | 🕐 | search |
-| Линейный | ✅ | 🕐 | search |
+| Бинарный | ✅ | 🕐 | search/binary_search |
+| Интерполяционный | ✅ | 🕐 | search/interpolation_search |
+| Линейный | ✅ | 🕐 | search/search |
 | Естественная  |  |  |  |
 | Многофазная |  |  |  |
-| Быстрая по Хоару | ✅ | 🕐 | sorting |
-| Шелл | ✅ | 🕐 | sorting |
-| Подсчетом |✅  | 🕐 | sorting |
-| Блочная  | ✅ | 🕐 | sorting |
-| Слиянием | ✅ | 🕐 | sorting |
-| Быстрая по Ломуто | ✅ | 🕐 | sorting |
+| Быстрая по Хоару | ✅ | 🕐 | sorting/Hoare |
+| Шелл | ✅ | 🕐 | sorting/Shell_sort |
+| Подсчетом |✅  | 🕐 | sorting/counting_sort |
+| Блочная  | ✅ | 🕐 | sorting/bucket_sort |
+| Слиянием | ✅ | 🕐 | sorting/merge_sort |
+| Быстрая по Ломуто | ✅ | 🕐 | sorting/Lomuto |
 | idef0 | ❌ | ✅ | idef0 |
 | 8 ферзей | ✅ | ✅ | recursion |
 | Ханой | ✅ | ✅ | recursion |
-| Вставки | ✅ | ✅ | sorting |
-| Выбор | ✅ | ✅ | sorting |
-| Пузырёк | ✅ | ✅ | sorting |
+| Вставки | ✅ | ✅ | sorting/insertion_sort |
+| Выбор | ✅ | ✅ | sorting/selection_sort |
+| Пузырёк | ✅ | ✅ | sorting/bubble_sort |
 | №11.4 | ✅ | 🕐 | Lab_11_4 |
 | №11.3 | ✅ | 🕐 | Lab_11_3 |
 | №11.2 | ✅ | 🕐 | Lab_11_2 |
