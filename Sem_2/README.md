@@ -8,11 +8,11 @@
 | Линейный | ✅ | 🕐 | search/search |
 | Естественная  |  |  |  |
 | Многофазная |  |  |  |
-| Быстрая по Хоару | ✅ | 🕐 | sorting/Hoare |
-| Шелл | ✅ | 🕐 | sorting/Shell_sort |
-| Подсчетом |✅  | 🕐 | sorting/counting_sort |
-| Блочная  | ✅ | 🕐 | sorting/bucket_sort |
-| Слиянием | ✅ | 🕐 | sorting/merge_sort |
+| Быстрая по Хоару | ✅ | ✅ | sorting/Hoare |
+| Шелл | ✅ | ✅ | sorting/Shell_sort |
+| Подсчетом |✅  | ✅ | sorting/counting_sort |
+| Блочная  | ✅ | ✅ | sorting/bucket_sort |
+| Слиянием | ✅ | ✅ | sorting/merge_sort |
 | Быстрая по Ломуто | ✅ | ✅ | sorting/Lomuto |
 | idef0 | ❌ | ✅ | idef0 |
 | 8 ферзей | ✅ | ✅ | recursion |
