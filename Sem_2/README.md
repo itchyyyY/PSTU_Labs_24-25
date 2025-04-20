@@ -6,7 +6,7 @@
 | Классы 3 | ✅ | ✅ | Lab_class_3 |
 | Классы 2 | ✅ | ✅ | Lab_class_2 |
 | Классы 1 | ✅ | ✅ | Lab_class_1 |
-| Хэш-таблицы  |  |  |  |
+| Хэш-таблицы  | ✅ | ✅ | Hash_Table |
 | Бойер-Мур | ✅ | ✅ | search/Boyer_Moore_search  |
 | Кнут-Моррис-Пратт | ✅ | ✅ | search/Knuth_Morris_Pratt_search |
 | Бинарный | ✅ | ✅ | search/binary_search |
