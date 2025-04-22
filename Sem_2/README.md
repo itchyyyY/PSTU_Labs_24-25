@@ -15,8 +15,8 @@
 | Бинарный | ✅ | ✅ | search/binary_search |
 | Интерполяционный | ✅ | ✅ | search/interpolation_search |
 | Линейный | ✅ | ✅ | search/search |
-| Естественная  |  |  |  |
-| Многофазная |  |  |  |
+| Естественная  | 🕐 | 🕐 | 🕐 |
+| Многофазная | 🕐 | 🕐 | 🕐 |
 | Быстрая по Хоару | ✅ | ✅ | sorting/Hoare |
 | Шелл | ✅ | ✅ | sorting/Shell_sort |
 | Подсчетом |✅  | ✅ | sorting/counting_sort |
